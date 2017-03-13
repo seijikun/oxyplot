@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 - RectangleSeries (#1060)
 
 ### Changed
-- 
+- Let Gtk# PlotView show up in Gui editor ToolBox in MonoDevelop and XamarinStudio
 
 ### Deprecated
 - OxyPlot.WP8 package. Use OxyPlot.Windows instead (#996)
